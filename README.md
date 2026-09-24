@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Lakshmikanthan
 
-<!--
-**lakshmikanthan-data/lakshmikanthan-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Data Analyst & AI Enthusiast** focused on turning complex data into actionable business strategies and building smart automated systems.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Advanced Data Analytics pipelines & AI-driven workflows.
+- 🌱 **Learning:** Integrating Generative AI with Data Analytics platforms.
+- 💼 **Looking for:** Data Analyst / BI Developer / Data Operations roles.
+- ✉️ **Connect with me:** [LinkedIn](www.linkedin.com/in/lakshmikanthan-data)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 📊 Data Analytics & Business Intelligence
+![Power BI](https://shields.io)
+![Advanced Excel](https://shields.io)
+
+### 💻 Programming & Databases
+![Python](https://shields.io)
+![SQL](https://shields.io)
+
+### 🤖 AI Tools & Productivity
+![ChatGPT](https://shields.io)
+![AI Prompting](https://shields.io)
+
+---
+
+## 📊 GitHub Performance
+
+<p align="left">
+<img src="https://vercel.app" alt="GitHub Stats" height="150" />
+<img src="https://vercel.app" alt="Top Languages" height="150" />
+</p>
+
+
